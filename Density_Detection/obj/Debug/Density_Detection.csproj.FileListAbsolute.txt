@@ -1,0 +1,673 @@
+\\my.files.iastate.edu\Users\slau\Desktop\Density_Detection\Density_Detection\bin\Debug\Density_Detection.exe.config
+\\my.files.iastate.edu\Users\slau\Desktop\Density_Detection\Density_Detection\obj\Debug\Density_Detection.csprojAssemblyReference.cache
+\\my.files.iastate.edu\Users\slau\Desktop\Density_Detection\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+\\my.files.iastate.edu\Users\slau\Desktop\Density_Detection\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+\\my.files.iastate.edu\Users\slau\Desktop\Density_Detection\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+\\my.files.iastate.edu\Users\slau\Desktop\Density_Detection\Density_Detection\obj\Debug\Density_Detection.csproj.CoreCompileInputs.cache
+\\my.files.iastate.edu\Users\slau\Desktop\Density_Detection\Density_Detection\bin\Debug\Density_Detection.exe
+\\my.files.iastate.edu\Users\slau\Desktop\Density_Detection\Density_Detection\bin\Debug\Density_Detection.pdb
+\\my.files.iastate.edu\Users\slau\Desktop\Density_Detection\Density_Detection\obj\Debug\Density_Detection.exe
+\\my.files.iastate.edu\Users\slau\Desktop\Density_Detection\Density_Detection\obj\Debug\Density_Detection.pdb
+\\my.files.iastate.edu\Users\slau\Desktop\MOUSE HOVER\Density_Detection\obj\Debug\Density_Detection.csprojAssemblyReference.cache
+\\my.files.iastate.edu\Users\slau\Desktop\MOUSE HOVER\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+\\my.files.iastate.edu\Users\slau\Desktop\MOUSE HOVER\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+\\my.files.iastate.edu\Users\slau\Desktop\MOUSE HOVER\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+\\my.files.iastate.edu\Users\slau\Desktop\MOUSE HOVER\Density_Detection\obj\Debug\Density_Detection.csproj.CoreCompileInputs.cache
+\\my.files.iastate.edu\Users\slau\Desktop\MOUSE HOVER\Density_Detection\obj\Debug\Density_Detection.exe
+\\my.files.iastate.edu\Users\slau\Desktop\MOUSE HOVER\Density_Detection\obj\Debug\Density_Detection.pdb
+\\my.files.iastate.edu\Users\slau\Desktop\MOUSE HOVER\Density_Detection\bin\Debug\Density_Detection.exe.config
+\\my.files.iastate.edu\Users\slau\Desktop\MOUSE HOVER\Density_Detection\bin\Debug\Density_Detection.exe
+\\my.files.iastate.edu\Users\slau\Desktop\MOUSE HOVER\Density_Detection\bin\Debug\Density_Detection.pdb
+\\my.files.iastate.edu\Users\slau\Desktop\MOUSE HOVER\Density_Detection\bin\Debug\AForge.dll
+\\my.files.iastate.edu\Users\slau\Desktop\MOUSE HOVER\Density_Detection\bin\Debug\AForge.Imaging.dll
+\\my.files.iastate.edu\Users\slau\Desktop\MOUSE HOVER\Density_Detection\bin\Debug\AForge.Math.dll
+\\my.files.iastate.edu\Users\slau\Desktop\MOUSE HOVER\Density_Detection\bin\Debug\AForge.xml
+\\my.files.iastate.edu\Users\slau\Desktop\MOUSE HOVER\Density_Detection\bin\Debug\AForge.Imaging.xml
+\\my.files.iastate.edu\Users\slau\Desktop\MOUSE HOVER\Density_Detection\bin\Debug\AForge.Math.xml
+\\my.files.iastate.edu\Users\slau\Desktop\MOUSE HOVER\Density_Detection\obj\Debug\Density_Detection.csproj.CopyComplete
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black\Density_Detection\bin\Debug\Density_Detection.exe.config
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black\Density_Detection\bin\Debug\Density_Detection.exe
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black\Density_Detection\bin\Debug\Density_Detection.pdb
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black\Density_Detection\bin\Debug\AForge.dll
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black\Density_Detection\bin\Debug\AForge.Imaging.dll
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black\Density_Detection\bin\Debug\AForge.Math.dll
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black\Density_Detection\bin\Debug\AForge.xml
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black\Density_Detection\bin\Debug\AForge.Imaging.xml
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black\Density_Detection\bin\Debug\AForge.Math.xml
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black\Density_Detection\obj\Debug\Density_Detection.csprojAssemblyReference.cache
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black\Density_Detection\obj\Debug\Density_Detection.csproj.CoreCompileInputs.cache
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black\Density_Detection\obj\Debug\Density_Detection.csproj.CopyComplete
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black\Density_Detection\obj\Debug\Density_Detection.exe
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black\Density_Detection\obj\Debug\Density_Detection.pdb
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black with text box\Density_Detection\bin\Debug\Density_Detection.exe.config
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black with text box\Density_Detection\bin\Debug\Density_Detection.exe
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black with text box\Density_Detection\bin\Debug\Density_Detection.pdb
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black with text box\Density_Detection\bin\Debug\AForge.dll
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black with text box\Density_Detection\bin\Debug\AForge.Imaging.dll
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black with text box\Density_Detection\bin\Debug\AForge.Math.dll
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black with text box\Density_Detection\bin\Debug\AForge.xml
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black with text box\Density_Detection\bin\Debug\AForge.Imaging.xml
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black with text box\Density_Detection\bin\Debug\AForge.Math.xml
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black with text box\Density_Detection\obj\Debug\Density_Detection.csprojAssemblyReference.cache
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black with text box\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black with text box\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black with text box\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black with text box\Density_Detection\obj\Debug\Density_Detection.csproj.CoreCompileInputs.cache
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black with text box\Density_Detection\obj\Debug\Density_Detection.csproj.CopyComplete
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black with text box\Density_Detection\obj\Debug\Density_Detection.exe
+\\my.files.iastate.edu\Users\slau\Desktop\Each pixel to black with text box\Density_Detection\obj\Debug\Density_Detection.pdb
+C:\Users\Sharon 2\Desktop\V5\Density_Detection\bin\Debug\Density_Detection.exe.config
+C:\Users\Sharon 2\Desktop\V5\Density_Detection\bin\Debug\Density_Detection.exe
+C:\Users\Sharon 2\Desktop\V5\Density_Detection\bin\Debug\Density_Detection.pdb
+C:\Users\Sharon 2\Desktop\V5\Density_Detection\bin\Debug\AForge.dll
+C:\Users\Sharon 2\Desktop\V5\Density_Detection\bin\Debug\AForge.Imaging.dll
+C:\Users\Sharon 2\Desktop\V5\Density_Detection\bin\Debug\AForge.Math.dll
+C:\Users\Sharon 2\Desktop\V5\Density_Detection\bin\Debug\AForge.xml
+C:\Users\Sharon 2\Desktop\V5\Density_Detection\bin\Debug\AForge.Imaging.xml
+C:\Users\Sharon 2\Desktop\V5\Density_Detection\bin\Debug\AForge.Math.xml
+C:\Users\Sharon 2\Desktop\V5\Density_Detection\obj\Debug\Density_Detection.csprojAssemblyReference.cache
+C:\Users\Sharon 2\Desktop\V5\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+C:\Users\Sharon 2\Desktop\V5\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+C:\Users\Sharon 2\Desktop\V5\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+C:\Users\Sharon 2\Desktop\V5\Density_Detection\obj\Debug\Density_Detection.csproj.CoreCompileInputs.cache
+C:\Users\Sharon 2\Desktop\V5\Density_Detection\obj\Debug\Density_Detection.csproj.CopyComplete
+C:\Users\Sharon 2\Desktop\V5\Density_Detection\obj\Debug\Density_Detection.exe
+C:\Users\Sharon 2\Desktop\V5\Density_Detection\obj\Debug\Density_Detection.pdb
+\\my.files.iastate.edu\Users\slau\Desktop\V6\Density_Detection\bin\Debug\Density_Detection.exe.config
+\\my.files.iastate.edu\Users\slau\Desktop\V6\Density_Detection\bin\Debug\Density_Detection.exe
+\\my.files.iastate.edu\Users\slau\Desktop\V6\Density_Detection\bin\Debug\Density_Detection.pdb
+\\my.files.iastate.edu\Users\slau\Desktop\V6\Density_Detection\bin\Debug\AForge.dll
+\\my.files.iastate.edu\Users\slau\Desktop\V6\Density_Detection\bin\Debug\AForge.Imaging.dll
+\\my.files.iastate.edu\Users\slau\Desktop\V6\Density_Detection\bin\Debug\AForge.Math.dll
+\\my.files.iastate.edu\Users\slau\Desktop\V6\Density_Detection\bin\Debug\AForge.xml
+\\my.files.iastate.edu\Users\slau\Desktop\V6\Density_Detection\bin\Debug\AForge.Imaging.xml
+\\my.files.iastate.edu\Users\slau\Desktop\V6\Density_Detection\bin\Debug\AForge.Math.xml
+\\my.files.iastate.edu\Users\slau\Desktop\V6\Density_Detection\obj\Debug\Density_Detection.csprojAssemblyReference.cache
+\\my.files.iastate.edu\Users\slau\Desktop\V6\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+\\my.files.iastate.edu\Users\slau\Desktop\V6\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+\\my.files.iastate.edu\Users\slau\Desktop\V6\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+\\my.files.iastate.edu\Users\slau\Desktop\V6\Density_Detection\obj\Debug\Density_Detection.csproj.CoreCompileInputs.cache
+\\my.files.iastate.edu\Users\slau\Desktop\V6\Density_Detection\obj\Debug\Density_Detection.csproj.CopyComplete
+\\my.files.iastate.edu\Users\slau\Desktop\V6\Density_Detection\obj\Debug\Density_Detection.exe
+\\my.files.iastate.edu\Users\slau\Desktop\V6\Density_Detection\obj\Debug\Density_Detection.pdb
+\\my.files.iastate.edu\Users\slau\Desktop\V7 - Density percentage\Density_Detection\bin\Debug\Density_Detection.exe.config
+\\my.files.iastate.edu\Users\slau\Desktop\V7 - Density percentage\Density_Detection\bin\Debug\Density_Detection.exe
+\\my.files.iastate.edu\Users\slau\Desktop\V7 - Density percentage\Density_Detection\bin\Debug\Density_Detection.pdb
+\\my.files.iastate.edu\Users\slau\Desktop\V7 - Density percentage\Density_Detection\bin\Debug\AForge.dll
+\\my.files.iastate.edu\Users\slau\Desktop\V7 - Density percentage\Density_Detection\bin\Debug\AForge.Imaging.dll
+\\my.files.iastate.edu\Users\slau\Desktop\V7 - Density percentage\Density_Detection\bin\Debug\AForge.Math.dll
+\\my.files.iastate.edu\Users\slau\Desktop\V7 - Density percentage\Density_Detection\bin\Debug\AForge.xml
+\\my.files.iastate.edu\Users\slau\Desktop\V7 - Density percentage\Density_Detection\bin\Debug\AForge.Imaging.xml
+\\my.files.iastate.edu\Users\slau\Desktop\V7 - Density percentage\Density_Detection\bin\Debug\AForge.Math.xml
+\\my.files.iastate.edu\Users\slau\Desktop\V7 - Density percentage\Density_Detection\obj\Debug\Density_Detection.csprojAssemblyReference.cache
+\\my.files.iastate.edu\Users\slau\Desktop\V7 - Density percentage\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+\\my.files.iastate.edu\Users\slau\Desktop\V7 - Density percentage\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+\\my.files.iastate.edu\Users\slau\Desktop\V7 - Density percentage\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+\\my.files.iastate.edu\Users\slau\Desktop\V7 - Density percentage\Density_Detection\obj\Debug\Density_Detection.csproj.CoreCompileInputs.cache
+\\my.files.iastate.edu\Users\slau\Desktop\V7 - Density percentage\Density_Detection\obj\Debug\Density_Detection.csproj.CopyComplete
+\\my.files.iastate.edu\Users\slau\Desktop\V7 - Density percentage\Density_Detection\obj\Debug\Density_Detection.exe
+\\my.files.iastate.edu\Users\slau\Desktop\V7 - Density percentage\Density_Detection\obj\Debug\Density_Detection.pdb
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value\Density_Detection\bin\Debug\Density_Detection.exe.config
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value\Density_Detection\bin\Debug\Density_Detection.exe
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value\Density_Detection\bin\Debug\Density_Detection.pdb
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value\Density_Detection\bin\Debug\AForge.dll
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value\Density_Detection\bin\Debug\AForge.Imaging.dll
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value\Density_Detection\bin\Debug\AForge.Math.dll
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value\Density_Detection\bin\Debug\AForge.xml
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value\Density_Detection\bin\Debug\AForge.Imaging.xml
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value\Density_Detection\bin\Debug\AForge.Math.xml
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value\Density_Detection\obj\Debug\Density_Detection.csprojAssemblyReference.cache
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value\Density_Detection\obj\Debug\Density_Detection.csproj.CoreCompileInputs.cache
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value\Density_Detection\obj\Debug\Density_Detection.csproj.CopyComplete
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value\Density_Detection\obj\Debug\Density_Detection.exe
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value\Density_Detection\obj\Debug\Density_Detection.pdb
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value and min bucket\Density_Detection\bin\Debug\Density_Detection.exe.config
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value and min bucket\Density_Detection\bin\Debug\Density_Detection.exe
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value and min bucket\Density_Detection\bin\Debug\Density_Detection.pdb
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value and min bucket\Density_Detection\bin\Debug\AForge.dll
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value and min bucket\Density_Detection\bin\Debug\AForge.Imaging.dll
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value and min bucket\Density_Detection\bin\Debug\AForge.Math.dll
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value and min bucket\Density_Detection\bin\Debug\AForge.xml
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value and min bucket\Density_Detection\bin\Debug\AForge.Imaging.xml
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value and min bucket\Density_Detection\bin\Debug\AForge.Math.xml
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value and min bucket\Density_Detection\obj\Debug\Density_Detection.csprojAssemblyReference.cache
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value and min bucket\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value and min bucket\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value and min bucket\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value and min bucket\Density_Detection\obj\Debug\Density_Detection.csproj.CoreCompileInputs.cache
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value and min bucket\Density_Detection\obj\Debug\Density_Detection.csproj.CopyComplete
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value and min bucket\Density_Detection\obj\Debug\Density_Detection.exe
+\\my.files.iastate.edu\Users\slau\Desktop\V8 - 3 images and average g value and min bucket\Density_Detection\obj\Debug\Density_Detection.pdb
+\\my.files.iastate.edu\Users\slau\Desktop\V9 - UI Improvement\Density_Detection\obj\Debug\Density_Detection.csprojAssemblyReference.cache
+\\my.files.iastate.edu\Users\slau\Desktop\V9 - UI Improvement\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+\\my.files.iastate.edu\Users\slau\Desktop\V9 - UI Improvement\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+\\my.files.iastate.edu\Users\slau\Desktop\V9 - UI Improvement\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+\\my.files.iastate.edu\Users\slau\Desktop\V9 - UI Improvement\Density_Detection\obj\Debug\Density_Detection.csproj.CoreCompileInputs.cache
+\\my.files.iastate.edu\Users\slau\Desktop\V9 - UI Improvement\Density_Detection\obj\Debug\Density_Detection.exe
+\\my.files.iastate.edu\Users\slau\Desktop\V9 - UI Improvement\Density_Detection\obj\Debug\Density_Detection.pdb
+\\my.files.iastate.edu\Users\slau\Desktop\V9 - UI Improvement\Density_Detection\bin\Debug\Density_Detection.exe.config
+\\my.files.iastate.edu\Users\slau\Desktop\V9 - UI Improvement\Density_Detection\bin\Debug\Density_Detection.exe
+\\my.files.iastate.edu\Users\slau\Desktop\V9 - UI Improvement\Density_Detection\bin\Debug\Density_Detection.pdb
+\\my.files.iastate.edu\Users\slau\Desktop\V9 - UI Improvement\Density_Detection\bin\Debug\AForge.dll
+\\my.files.iastate.edu\Users\slau\Desktop\V9 - UI Improvement\Density_Detection\bin\Debug\AForge.Imaging.dll
+\\my.files.iastate.edu\Users\slau\Desktop\V9 - UI Improvement\Density_Detection\bin\Debug\AForge.Math.dll
+\\my.files.iastate.edu\Users\slau\Desktop\V9 - UI Improvement\Density_Detection\bin\Debug\AForge.xml
+\\my.files.iastate.edu\Users\slau\Desktop\V9 - UI Improvement\Density_Detection\bin\Debug\AForge.Imaging.xml
+\\my.files.iastate.edu\Users\slau\Desktop\V9 - UI Improvement\Density_Detection\bin\Debug\AForge.Math.xml
+\\my.files.iastate.edu\Users\slau\Desktop\V9 - UI Improvement\Density_Detection\obj\Debug\Density_Detection.csproj.CopyComplete
+\\my.files.iastate.edu\Users\slau\Desktop\V10 - Added file upload name\Density_Detection\bin\Debug\Density_Detection.exe.config
+\\my.files.iastate.edu\Users\slau\Desktop\V10 - Added file upload name\Density_Detection\bin\Debug\Density_Detection.exe
+\\my.files.iastate.edu\Users\slau\Desktop\V10 - Added file upload name\Density_Detection\bin\Debug\Density_Detection.pdb
+\\my.files.iastate.edu\Users\slau\Desktop\V10 - Added file upload name\Density_Detection\bin\Debug\AForge.dll
+\\my.files.iastate.edu\Users\slau\Desktop\V10 - Added file upload name\Density_Detection\bin\Debug\AForge.Imaging.dll
+\\my.files.iastate.edu\Users\slau\Desktop\V10 - Added file upload name\Density_Detection\bin\Debug\AForge.Math.dll
+\\my.files.iastate.edu\Users\slau\Desktop\V10 - Added file upload name\Density_Detection\bin\Debug\AForge.xml
+\\my.files.iastate.edu\Users\slau\Desktop\V10 - Added file upload name\Density_Detection\bin\Debug\AForge.Imaging.xml
+\\my.files.iastate.edu\Users\slau\Desktop\V10 - Added file upload name\Density_Detection\bin\Debug\AForge.Math.xml
+\\my.files.iastate.edu\Users\slau\Desktop\V10 - Added file upload name\Density_Detection\obj\Debug\Density_Detection.csprojAssemblyReference.cache
+\\my.files.iastate.edu\Users\slau\Desktop\V10 - Added file upload name\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+\\my.files.iastate.edu\Users\slau\Desktop\V10 - Added file upload name\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+\\my.files.iastate.edu\Users\slau\Desktop\V10 - Added file upload name\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+\\my.files.iastate.edu\Users\slau\Desktop\V10 - Added file upload name\Density_Detection\obj\Debug\Density_Detection.csproj.CoreCompileInputs.cache
+\\my.files.iastate.edu\Users\slau\Desktop\V10 - Added file upload name\Density_Detection\obj\Debug\Density_Detection.csproj.CopyComplete
+\\my.files.iastate.edu\Users\slau\Desktop\V10 - Added file upload name\Density_Detection\obj\Debug\Density_Detection.exe
+\\my.files.iastate.edu\Users\slau\Desktop\V10 - Added file upload name\Density_Detection\obj\Debug\Density_Detection.pdb
+\\my.files.iastate.edu\Users\slau\Desktop\V11 - two images\Density_Detection\bin\Debug\Density_Detection.exe.config
+\\my.files.iastate.edu\Users\slau\Desktop\V11 - two images\Density_Detection\bin\Debug\Density_Detection.exe
+\\my.files.iastate.edu\Users\slau\Desktop\V11 - two images\Density_Detection\bin\Debug\Density_Detection.pdb
+\\my.files.iastate.edu\Users\slau\Desktop\V11 - two images\Density_Detection\bin\Debug\AForge.dll
+\\my.files.iastate.edu\Users\slau\Desktop\V11 - two images\Density_Detection\bin\Debug\AForge.Imaging.dll
+\\my.files.iastate.edu\Users\slau\Desktop\V11 - two images\Density_Detection\bin\Debug\AForge.Math.dll
+\\my.files.iastate.edu\Users\slau\Desktop\V11 - two images\Density_Detection\bin\Debug\AForge.xml
+\\my.files.iastate.edu\Users\slau\Desktop\V11 - two images\Density_Detection\bin\Debug\AForge.Imaging.xml
+\\my.files.iastate.edu\Users\slau\Desktop\V11 - two images\Density_Detection\bin\Debug\AForge.Math.xml
+\\my.files.iastate.edu\Users\slau\Desktop\V11 - two images\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+\\my.files.iastate.edu\Users\slau\Desktop\V11 - two images\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+\\my.files.iastate.edu\Users\slau\Desktop\V11 - two images\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+\\my.files.iastate.edu\Users\slau\Desktop\V11 - two images\Density_Detection\obj\Debug\Density_Detection.exe
+\\my.files.iastate.edu\Users\slau\Desktop\V11 - two images\Density_Detection\obj\Debug\Density_Detection.pdb
+\\my.files.iastate.edu\Users\slau\Desktop\V11 - two images\Density_Detection\obj\Debug\Density_Detection.csprojResolveAssemblyReference.cache
+\\my.files.iastate.edu\Users\slau\Desktop\V12 -FONT SIZE\Density_Detection\bin\Debug\Density_Detection.exe.config
+\\my.files.iastate.edu\Users\slau\Desktop\V12 -FONT SIZE\Density_Detection\obj\Debug\Density_Detection.exe
+\\my.files.iastate.edu\Users\slau\Desktop\V12 -FONT SIZE\Density_Detection\obj\Debug\Density_Detection.pdb
+\\my.files.iastate.edu\Users\slau\Desktop\V12 -FONT SIZE\Density_Detection\bin\Debug\Density_Detection.exe
+\\my.files.iastate.edu\Users\slau\Desktop\V12 -FONT SIZE\Density_Detection\bin\Debug\Density_Detection.pdb
+\\my.files.iastate.edu\Users\slau\Desktop\V12 -FONT SIZE\Density_Detection\bin\Debug\AForge.dll
+\\my.files.iastate.edu\Users\slau\Desktop\V12 -FONT SIZE\Density_Detection\bin\Debug\AForge.Imaging.dll
+\\my.files.iastate.edu\Users\slau\Desktop\V12 -FONT SIZE\Density_Detection\bin\Debug\AForge.Math.dll
+\\my.files.iastate.edu\Users\slau\Desktop\V12 -FONT SIZE\Density_Detection\bin\Debug\AForge.xml
+\\my.files.iastate.edu\Users\slau\Desktop\V12 -FONT SIZE\Density_Detection\bin\Debug\AForge.Imaging.xml
+\\my.files.iastate.edu\Users\slau\Desktop\V12 -FONT SIZE\Density_Detection\bin\Debug\AForge.Math.xml
+\\my.files.iastate.edu\Users\slau\Desktop\V12 -FONT SIZE\Density_Detection\obj\Debug\Density_Detection.csprojResolveAssemblyReference.cache
+\\my.files.iastate.edu\Users\slau\Desktop\V12 -FONT SIZE\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+\\my.files.iastate.edu\Users\slau\Desktop\V12 -FONT SIZE\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+\\my.files.iastate.edu\Users\slau\Desktop\V12 -FONT SIZE\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.Cache
+\\my.files.iastate.edu\Users\slau\Desktop\V12 -FONT SIZE\Density_Detection\bin\Debug\Density_Detection.exe.manifest
+\\my.files.iastate.edu\Users\slau\Desktop\V12 -FONT SIZE\Density_Detection\bin\Debug\Density_Detection.application
+\\my.files.iastate.edu\Users\slau\Desktop\V12 -FONT SIZE\Density_Detection\obj\Debug\Density_Detection.exe.manifest
+\\my.files.iastate.edu\Users\slau\Desktop\V12 -FONT SIZE\Density_Detection\obj\Debug\Density_Detection.application
+C:\Users\sharo\Desktop\V12 -FONT SIZE\Density_Detection\bin\Debug\Density_Detection.exe.config
+C:\Users\sharo\Desktop\V12 -FONT SIZE\Density_Detection\bin\Debug\Density_Detection.exe.manifest
+C:\Users\sharo\Desktop\V12 -FONT SIZE\Density_Detection\bin\Debug\Density_Detection.application
+C:\Users\sharo\Desktop\V12 -FONT SIZE\Density_Detection\bin\Debug\Density_Detection.exe
+C:\Users\sharo\Desktop\V12 -FONT SIZE\Density_Detection\bin\Debug\Density_Detection.pdb
+C:\Users\sharo\Desktop\V12 -FONT SIZE\Density_Detection\bin\Debug\AForge.Math.dll
+C:\Users\sharo\Desktop\V12 -FONT SIZE\Density_Detection\bin\Debug\AForge.xml
+C:\Users\sharo\Desktop\V12 -FONT SIZE\Density_Detection\bin\Debug\AForge.Imaging.xml
+C:\Users\sharo\Desktop\V12 -FONT SIZE\Density_Detection\bin\Debug\AForge.Math.xml
+C:\Users\sharo\Desktop\V12 -FONT SIZE\Density_Detection\obj\Debug\Density_Detection.csprojAssemblyReference.cache
+C:\Users\sharo\Desktop\V12 -FONT SIZE\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+C:\Users\sharo\Desktop\V12 -FONT SIZE\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+C:\Users\sharo\Desktop\V12 -FONT SIZE\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+C:\Users\sharo\Desktop\V12 -FONT SIZE\Density_Detection\obj\Debug\Density_Detection.csproj.CoreCompileInputs.cache
+C:\Users\sharo\Desktop\V12 -FONT SIZE\Density_Detection\obj\Debug\Density_Detection.exe.manifest
+C:\Users\sharo\Desktop\V12 -FONT SIZE\Density_Detection\obj\Debug\Density_Detection.application
+C:\Users\sharo\Desktop\V12 -FONT SIZE\Density_Detection\obj\Debug\Density_Detection.csproj.CopyComplete
+C:\Users\sharo\Desktop\V12 -FONT SIZE\Density_Detection\obj\Debug\Density_Detection.exe
+C:\Users\sharo\Desktop\V12 -FONT SIZE\Density_Detection\obj\Debug\Density_Detection.pdb
+C:\Users\sharo\Desktop\V1 - Linear points\Density_Detection\obj\Debug\Density_Detection.csprojAssemblyReference.cache
+C:\Users\sharo\Desktop\V1 - Linear points\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+C:\Users\sharo\Desktop\V1 - Linear points\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+C:\Users\sharo\Desktop\V1 - Linear points\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+C:\Users\sharo\Desktop\V1 - Linear points\Density_Detection\obj\Debug\Density_Detection.csproj.CoreCompileInputs.cache
+C:\Users\sharo\Desktop\V1 - Linear points\Density_Detection\obj\Debug\Density_Detection.exe
+C:\Users\sharo\Desktop\V1 - Linear points\Density_Detection\obj\Debug\Density_Detection.pdb
+C:\Users\sharo\Desktop\V1 - Linear points\Density_Detection\bin\Debug\Density_Detection.exe.config
+C:\Users\sharo\Desktop\V1 - Linear points\Density_Detection\bin\Debug\Density_Detection.exe.manifest
+C:\Users\sharo\Desktop\V1 - Linear points\Density_Detection\bin\Debug\Density_Detection.application
+C:\Users\sharo\Desktop\V1 - Linear points\Density_Detection\bin\Debug\Density_Detection.exe
+C:\Users\sharo\Desktop\V1 - Linear points\Density_Detection\bin\Debug\Density_Detection.pdb
+C:\Users\sharo\Desktop\V1 - Linear points\Density_Detection\bin\Debug\AForge.Math.dll
+C:\Users\sharo\Desktop\V1 - Linear points\Density_Detection\bin\Debug\AForge.xml
+C:\Users\sharo\Desktop\V1 - Linear points\Density_Detection\bin\Debug\AForge.Imaging.xml
+C:\Users\sharo\Desktop\V1 - Linear points\Density_Detection\bin\Debug\AForge.Math.xml
+C:\Users\sharo\Desktop\V1 - Linear points\Density_Detection\obj\Debug\Density_Detection.exe.manifest
+C:\Users\sharo\Desktop\V1 - Linear points\Density_Detection\obj\Debug\Density_Detection.application
+C:\Users\sharo\Desktop\V1 - Linear points\Density_Detection\obj\Debug\Density_Detection.csproj.CopyComplete
+C:\Users\sharo\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V1 - Linear points\Density_Detection\bin\Debug\Density_Detection.exe.config
+C:\Users\sharo\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V1 - Linear points\Density_Detection\bin\Debug\Density_Detection.exe.manifest
+C:\Users\sharo\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V1 - Linear points\Density_Detection\bin\Debug\Density_Detection.application
+C:\Users\sharo\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V1 - Linear points\Density_Detection\bin\Debug\Density_Detection.exe
+C:\Users\sharo\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V1 - Linear points\Density_Detection\bin\Debug\Density_Detection.pdb
+C:\Users\sharo\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V1 - Linear points\Density_Detection\bin\Debug\AForge.Math.dll
+C:\Users\sharo\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V1 - Linear points\Density_Detection\bin\Debug\AForge.xml
+C:\Users\sharo\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V1 - Linear points\Density_Detection\bin\Debug\AForge.Imaging.xml
+C:\Users\sharo\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V1 - Linear points\Density_Detection\bin\Debug\AForge.Math.xml
+C:\Users\sharo\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V1 - Linear points\Density_Detection\obj\Debug\Density_Detection.csprojAssemblyReference.cache
+C:\Users\sharo\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V1 - Linear points\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+C:\Users\sharo\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V1 - Linear points\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+C:\Users\sharo\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V1 - Linear points\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+C:\Users\sharo\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V1 - Linear points\Density_Detection\obj\Debug\Density_Detection.csproj.CoreCompileInputs.cache
+C:\Users\sharo\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V1 - Linear points\Density_Detection\obj\Debug\Density_Detection.exe.manifest
+C:\Users\sharo\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V1 - Linear points\Density_Detection\obj\Debug\Density_Detection.application
+C:\Users\sharo\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V1 - Linear points\Density_Detection\obj\Debug\Density_Detection.csproj.CopyComplete
+C:\Users\sharo\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V1 - Linear points\Density_Detection\obj\Debug\Density_Detection.exe
+C:\Users\sharo\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V1 - Linear points\Density_Detection\obj\Debug\Density_Detection.pdb
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points\Density_Detection\bin\Debug\Density_Detection.exe.config
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points\Density_Detection\bin\Debug\Density_Detection.exe.manifest
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points\Density_Detection\bin\Debug\Density_Detection.application
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points\Density_Detection\bin\Debug\Density_Detection.exe
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points\Density_Detection\bin\Debug\Density_Detection.pdb
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points\Density_Detection\bin\Debug\AForge.Math.dll
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points\Density_Detection\bin\Debug\AForge.xml
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points\Density_Detection\bin\Debug\AForge.Imaging.xml
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points\Density_Detection\bin\Debug\AForge.Math.xml
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points\Density_Detection\obj\Debug\Density_Detection.csprojAssemblyReference.cache
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points\Density_Detection\obj\Debug\Density_Detection.csproj.CoreCompileInputs.cache
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points\Density_Detection\obj\Debug\Density_Detection.exe.manifest
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points\Density_Detection\obj\Debug\Density_Detection.application
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points\Density_Detection\obj\Debug\Density_Detection.csproj.CopyComplete
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points\Density_Detection\obj\Debug\Density_Detection.exe
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points\Density_Detection\obj\Debug\Density_Detection.pdb
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation\Density_Detection\bin\Debug\Density_Detection.exe.config
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation\Density_Detection\bin\Debug\Density_Detection.exe.manifest
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation\Density_Detection\bin\Debug\Density_Detection.application
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation\Density_Detection\bin\Debug\Density_Detection.exe
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation\Density_Detection\bin\Debug\Density_Detection.pdb
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation\Density_Detection\bin\Debug\AForge.Math.dll
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation\Density_Detection\bin\Debug\AForge.xml
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation\Density_Detection\bin\Debug\AForge.Imaging.xml
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation\Density_Detection\bin\Debug\AForge.Math.xml
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation\Density_Detection\obj\Debug\Density_Detection.csprojAssemblyReference.cache
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation\Density_Detection\obj\Debug\Density_Detection.csproj.CoreCompileInputs.cache
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation\Density_Detection\obj\Debug\Density_Detection.exe.manifest
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation\Density_Detection\obj\Debug\Density_Detection.application
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation\Density_Detection\obj\Debug\Density_Detection.csproj.CopyComplete
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation\Density_Detection\obj\Debug\Density_Detection.exe
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation\Density_Detection\obj\Debug\Density_Detection.pdb
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation 2.0\Density_Detection\bin\Debug\Density_Detection.exe.config
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation 2.0\Density_Detection\bin\Debug\Density_Detection.exe.manifest
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation 2.0\Density_Detection\bin\Debug\Density_Detection.application
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation 2.0\Density_Detection\bin\Debug\Density_Detection.exe
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation 2.0\Density_Detection\bin\Debug\Density_Detection.pdb
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation 2.0\Density_Detection\bin\Debug\AForge.Math.dll
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation 2.0\Density_Detection\bin\Debug\AForge.xml
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation 2.0\Density_Detection\bin\Debug\AForge.Imaging.xml
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation 2.0\Density_Detection\bin\Debug\AForge.Math.xml
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation 2.0\Density_Detection\obj\Debug\Density_Detection.csprojAssemblyReference.cache
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation 2.0\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation 2.0\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation 2.0\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation 2.0\Density_Detection\obj\Debug\Density_Detection.csproj.CoreCompileInputs.cache
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation 2.0\Density_Detection\obj\Debug\Density_Detection.exe.manifest
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation 2.0\Density_Detection\obj\Debug\Density_Detection.application
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation 2.0\Density_Detection\obj\Debug\Density_Detection.csproj.CopyComplete
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation 2.0\Density_Detection\obj\Debug\Density_Detection.exe
+C:\Users\Aron Mitchell\Documents\Aron V1 Linear Points with Rotation 2.0\Density_Detection\obj\Debug\Density_Detection.pdb
+C:\Users\Sharon 2\Desktop\V2 - Aron - With Rotation\Density_Detection\bin\Debug\Density_Detection.exe.config
+C:\Users\Sharon 2\Desktop\V2 - Aron - With Rotation\Density_Detection\bin\Debug\Density_Detection.exe.manifest
+C:\Users\Sharon 2\Desktop\V2 - Aron - With Rotation\Density_Detection\bin\Debug\Density_Detection.application
+C:\Users\Sharon 2\Desktop\V2 - Aron - With Rotation\Density_Detection\bin\Debug\Density_Detection.exe
+C:\Users\Sharon 2\Desktop\V2 - Aron - With Rotation\Density_Detection\bin\Debug\Density_Detection.pdb
+C:\Users\Sharon 2\Desktop\V2 - Aron - With Rotation\Density_Detection\bin\Debug\AForge.dll
+C:\Users\Sharon 2\Desktop\V2 - Aron - With Rotation\Density_Detection\bin\Debug\AForge.Imaging.dll
+C:\Users\Sharon 2\Desktop\V2 - Aron - With Rotation\Density_Detection\bin\Debug\AForge.Math.dll
+C:\Users\Sharon 2\Desktop\V2 - Aron - With Rotation\Density_Detection\bin\Debug\AForge.xml
+C:\Users\Sharon 2\Desktop\V2 - Aron - With Rotation\Density_Detection\bin\Debug\AForge.Imaging.xml
+C:\Users\Sharon 2\Desktop\V2 - Aron - With Rotation\Density_Detection\bin\Debug\AForge.Math.xml
+C:\Users\Sharon 2\Desktop\V2 - Aron - With Rotation\Density_Detection\obj\Debug\Density_Detection.csprojAssemblyReference.cache
+C:\Users\Sharon 2\Desktop\V2 - Aron - With Rotation\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+C:\Users\Sharon 2\Desktop\V2 - Aron - With Rotation\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+C:\Users\Sharon 2\Desktop\V2 - Aron - With Rotation\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+C:\Users\Sharon 2\Desktop\V2 - Aron - With Rotation\Density_Detection\obj\Debug\Density_Detection.csproj.CoreCompileInputs.cache
+C:\Users\Sharon 2\Desktop\V2 - Aron - With Rotation\Density_Detection\obj\Debug\Density_Detection.exe.manifest
+C:\Users\Sharon 2\Desktop\V2 - Aron - With Rotation\Density_Detection\obj\Debug\Density_Detection.application
+C:\Users\Sharon 2\Desktop\V2 - Aron - With Rotation\Density_Detection\obj\Debug\Density_Detection.csproj.CopyComplete
+C:\Users\Sharon 2\Desktop\V2 - Aron - With Rotation\Density_Detection\obj\Debug\Density_Detection.exe
+C:\Users\Sharon 2\Desktop\V2 - Aron - With Rotation\Density_Detection\obj\Debug\Density_Detection.pdb
+C:\Users\Sharon 2\Desktop\V3 - Sharon - With Rotation and calc fix\Density_Detection\bin\Debug\Density_Detection.exe.config
+C:\Users\Sharon 2\Desktop\V3 - Sharon - With Rotation and calc fix\Density_Detection\bin\Debug\Density_Detection.exe.manifest
+C:\Users\Sharon 2\Desktop\V3 - Sharon - With Rotation and calc fix\Density_Detection\bin\Debug\Density_Detection.application
+C:\Users\Sharon 2\Desktop\V3 - Sharon - With Rotation and calc fix\Density_Detection\bin\Debug\Density_Detection.exe
+C:\Users\Sharon 2\Desktop\V3 - Sharon - With Rotation and calc fix\Density_Detection\bin\Debug\Density_Detection.pdb
+C:\Users\Sharon 2\Desktop\V3 - Sharon - With Rotation and calc fix\Density_Detection\bin\Debug\AForge.dll
+C:\Users\Sharon 2\Desktop\V3 - Sharon - With Rotation and calc fix\Density_Detection\bin\Debug\AForge.Imaging.dll
+C:\Users\Sharon 2\Desktop\V3 - Sharon - With Rotation and calc fix\Density_Detection\bin\Debug\AForge.Math.dll
+C:\Users\Sharon 2\Desktop\V3 - Sharon - With Rotation and calc fix\Density_Detection\bin\Debug\AForge.xml
+C:\Users\Sharon 2\Desktop\V3 - Sharon - With Rotation and calc fix\Density_Detection\bin\Debug\AForge.Imaging.xml
+C:\Users\Sharon 2\Desktop\V3 - Sharon - With Rotation and calc fix\Density_Detection\bin\Debug\AForge.Math.xml
+C:\Users\Sharon 2\Desktop\V3 - Sharon - With Rotation and calc fix\Density_Detection\obj\Debug\Density_Detection.csprojAssemblyReference.cache
+C:\Users\Sharon 2\Desktop\V3 - Sharon - With Rotation and calc fix\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+C:\Users\Sharon 2\Desktop\V3 - Sharon - With Rotation and calc fix\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+C:\Users\Sharon 2\Desktop\V3 - Sharon - With Rotation and calc fix\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+C:\Users\Sharon 2\Desktop\V3 - Sharon - With Rotation and calc fix\Density_Detection\obj\Debug\Density_Detection.csproj.CoreCompileInputs.cache
+C:\Users\Sharon 2\Desktop\V3 - Sharon - With Rotation and calc fix\Density_Detection\obj\Debug\Density_Detection.exe.manifest
+C:\Users\Sharon 2\Desktop\V3 - Sharon - With Rotation and calc fix\Density_Detection\obj\Debug\Density_Detection.application
+C:\Users\Sharon 2\Desktop\V3 - Sharon - With Rotation and calc fix\Density_Detection\obj\Debug\Density_Detection.csproj.CopyComplete
+C:\Users\Sharon 2\Desktop\V3 - Sharon - With Rotation and calc fix\Density_Detection\obj\Debug\Density_Detection.exe
+C:\Users\Sharon 2\Desktop\V3 - Sharon - With Rotation and calc fix\Density_Detection\obj\Debug\Density_Detection.pdb
+C:\Users\Aron Mitchell\Downloads\V3 - Sharon - With Rotation and calc fix\V3 - Sharon - With Rotation and calc fix\Density_Detection\bin\Debug\Density_Detection.exe.config
+C:\Users\Aron Mitchell\Downloads\V3 - Sharon - With Rotation and calc fix\V3 - Sharon - With Rotation and calc fix\Density_Detection\bin\Debug\Density_Detection.exe.manifest
+C:\Users\Aron Mitchell\Downloads\V3 - Sharon - With Rotation and calc fix\V3 - Sharon - With Rotation and calc fix\Density_Detection\bin\Debug\Density_Detection.application
+C:\Users\Aron Mitchell\Downloads\V3 - Sharon - With Rotation and calc fix\V3 - Sharon - With Rotation and calc fix\Density_Detection\bin\Debug\Density_Detection.exe
+C:\Users\Aron Mitchell\Downloads\V3 - Sharon - With Rotation and calc fix\V3 - Sharon - With Rotation and calc fix\Density_Detection\bin\Debug\Density_Detection.pdb
+C:\Users\Aron Mitchell\Downloads\V3 - Sharon - With Rotation and calc fix\V3 - Sharon - With Rotation and calc fix\Density_Detection\bin\Debug\AForge.Math.dll
+C:\Users\Aron Mitchell\Downloads\V3 - Sharon - With Rotation and calc fix\V3 - Sharon - With Rotation and calc fix\Density_Detection\bin\Debug\AForge.xml
+C:\Users\Aron Mitchell\Downloads\V3 - Sharon - With Rotation and calc fix\V3 - Sharon - With Rotation and calc fix\Density_Detection\bin\Debug\AForge.Imaging.xml
+C:\Users\Aron Mitchell\Downloads\V3 - Sharon - With Rotation and calc fix\V3 - Sharon - With Rotation and calc fix\Density_Detection\bin\Debug\AForge.Math.xml
+C:\Users\Aron Mitchell\Downloads\V3 - Sharon - With Rotation and calc fix\V3 - Sharon - With Rotation and calc fix\Density_Detection\obj\Debug\Density_Detection.csprojAssemblyReference.cache
+C:\Users\Aron Mitchell\Downloads\V3 - Sharon - With Rotation and calc fix\V3 - Sharon - With Rotation and calc fix\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+C:\Users\Aron Mitchell\Downloads\V3 - Sharon - With Rotation and calc fix\V3 - Sharon - With Rotation and calc fix\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+C:\Users\Aron Mitchell\Downloads\V3 - Sharon - With Rotation and calc fix\V3 - Sharon - With Rotation and calc fix\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+C:\Users\Aron Mitchell\Downloads\V3 - Sharon - With Rotation and calc fix\V3 - Sharon - With Rotation and calc fix\Density_Detection\obj\Debug\Density_Detection.csproj.CoreCompileInputs.cache
+C:\Users\Aron Mitchell\Downloads\V3 - Sharon - With Rotation and calc fix\V3 - Sharon - With Rotation and calc fix\Density_Detection\obj\Debug\Density_Detection.exe.manifest
+C:\Users\Aron Mitchell\Downloads\V3 - Sharon - With Rotation and calc fix\V3 - Sharon - With Rotation and calc fix\Density_Detection\obj\Debug\Density_Detection.application
+C:\Users\Aron Mitchell\Downloads\V3 - Sharon - With Rotation and calc fix\V3 - Sharon - With Rotation and calc fix\Density_Detection\obj\Debug\Density_Detection.csproj.CopyComplete
+C:\Users\Aron Mitchell\Downloads\V3 - Sharon - With Rotation and calc fix\V3 - Sharon - With Rotation and calc fix\Density_Detection\obj\Debug\Density_Detection.exe
+C:\Users\Aron Mitchell\Downloads\V3 - Sharon - With Rotation and calc fix\V3 - Sharon - With Rotation and calc fix\Density_Detection\obj\Debug\Density_Detection.pdb
+C:\Users\Aron Mitchell\Documents\V4 - Aron - With Rotation and Point Coordinates\V4 - Aron - With Rotation and Point Coordinates\Density_Detection\bin\Debug\Density_Detection.exe.config
+C:\Users\Aron Mitchell\Documents\V4 - Aron - With Rotation and Point Coordinates\V4 - Aron - With Rotation and Point Coordinates\Density_Detection\bin\Debug\Density_Detection.exe.manifest
+C:\Users\Aron Mitchell\Documents\V4 - Aron - With Rotation and Point Coordinates\V4 - Aron - With Rotation and Point Coordinates\Density_Detection\bin\Debug\Density_Detection.application
+C:\Users\Aron Mitchell\Documents\V4 - Aron - With Rotation and Point Coordinates\V4 - Aron - With Rotation and Point Coordinates\Density_Detection\bin\Debug\Density_Detection.exe
+C:\Users\Aron Mitchell\Documents\V4 - Aron - With Rotation and Point Coordinates\V4 - Aron - With Rotation and Point Coordinates\Density_Detection\bin\Debug\Density_Detection.pdb
+C:\Users\Aron Mitchell\Documents\V4 - Aron - With Rotation and Point Coordinates\V4 - Aron - With Rotation and Point Coordinates\Density_Detection\bin\Debug\AForge.Math.dll
+C:\Users\Aron Mitchell\Documents\V4 - Aron - With Rotation and Point Coordinates\V4 - Aron - With Rotation and Point Coordinates\Density_Detection\bin\Debug\AForge.xml
+C:\Users\Aron Mitchell\Documents\V4 - Aron - With Rotation and Point Coordinates\V4 - Aron - With Rotation and Point Coordinates\Density_Detection\bin\Debug\AForge.Imaging.xml
+C:\Users\Aron Mitchell\Documents\V4 - Aron - With Rotation and Point Coordinates\V4 - Aron - With Rotation and Point Coordinates\Density_Detection\bin\Debug\AForge.Math.xml
+C:\Users\Aron Mitchell\Documents\V4 - Aron - With Rotation and Point Coordinates\V4 - Aron - With Rotation and Point Coordinates\Density_Detection\obj\Debug\Density_Detection.csprojAssemblyReference.cache
+C:\Users\Aron Mitchell\Documents\V4 - Aron - With Rotation and Point Coordinates\V4 - Aron - With Rotation and Point Coordinates\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+C:\Users\Aron Mitchell\Documents\V4 - Aron - With Rotation and Point Coordinates\V4 - Aron - With Rotation and Point Coordinates\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+C:\Users\Aron Mitchell\Documents\V4 - Aron - With Rotation and Point Coordinates\V4 - Aron - With Rotation and Point Coordinates\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+C:\Users\Aron Mitchell\Documents\V4 - Aron - With Rotation and Point Coordinates\V4 - Aron - With Rotation and Point Coordinates\Density_Detection\obj\Debug\Density_Detection.csproj.CoreCompileInputs.cache
+C:\Users\Aron Mitchell\Documents\V4 - Aron - With Rotation and Point Coordinates\V4 - Aron - With Rotation and Point Coordinates\Density_Detection\obj\Debug\Density_Detection.exe.manifest
+C:\Users\Aron Mitchell\Documents\V4 - Aron - With Rotation and Point Coordinates\V4 - Aron - With Rotation and Point Coordinates\Density_Detection\obj\Debug\Density_Detection.application
+C:\Users\Aron Mitchell\Documents\V4 - Aron - With Rotation and Point Coordinates\V4 - Aron - With Rotation and Point Coordinates\Density_Detection\obj\Debug\Density_Detection.csproj.CopyComplete
+C:\Users\Aron Mitchell\Documents\V4 - Aron - With Rotation and Point Coordinates\V4 - Aron - With Rotation and Point Coordinates\Density_Detection\obj\Debug\Density_Detection.exe
+C:\Users\Aron Mitchell\Documents\V4 - Aron - With Rotation and Point Coordinates\V4 - Aron - With Rotation and Point Coordinates\Density_Detection\obj\Debug\Density_Detection.pdb
+C:\Users\Aron Mitchell\Documents\V4 - Aron - With Rotation and Point Coordinates\V4 - Aron - With Rotation and Point Coordinates\Density_Detection\obj\Debug\Density_Detection.InstructionForm.resources
+C:\Users\Aron Mitchell\Documents\V5 - Aron - With Rotation and Point Coordinates\V5 - Aron - With Rotation and Point Coordinates\Density_Detection\bin\Debug\Density_Detection.exe.config
+C:\Users\Aron Mitchell\Documents\V5 - Aron - With Rotation and Point Coordinates\V5 - Aron - With Rotation and Point Coordinates\Density_Detection\bin\Debug\Density_Detection.exe.manifest
+C:\Users\Aron Mitchell\Documents\V5 - Aron - With Rotation and Point Coordinates\V5 - Aron - With Rotation and Point Coordinates\Density_Detection\bin\Debug\Density_Detection.application
+C:\Users\Aron Mitchell\Documents\V5 - Aron - With Rotation and Point Coordinates\V5 - Aron - With Rotation and Point Coordinates\Density_Detection\bin\Debug\Density_Detection.exe
+C:\Users\Aron Mitchell\Documents\V5 - Aron - With Rotation and Point Coordinates\V5 - Aron - With Rotation and Point Coordinates\Density_Detection\bin\Debug\Density_Detection.pdb
+C:\Users\Aron Mitchell\Documents\V5 - Aron - With Rotation and Point Coordinates\V5 - Aron - With Rotation and Point Coordinates\Density_Detection\bin\Debug\AForge.Math.dll
+C:\Users\Aron Mitchell\Documents\V5 - Aron - With Rotation and Point Coordinates\V5 - Aron - With Rotation and Point Coordinates\Density_Detection\bin\Debug\AForge.xml
+C:\Users\Aron Mitchell\Documents\V5 - Aron - With Rotation and Point Coordinates\V5 - Aron - With Rotation and Point Coordinates\Density_Detection\bin\Debug\AForge.Imaging.xml
+C:\Users\Aron Mitchell\Documents\V5 - Aron - With Rotation and Point Coordinates\V5 - Aron - With Rotation and Point Coordinates\Density_Detection\bin\Debug\AForge.Math.xml
+C:\Users\Aron Mitchell\Documents\V5 - Aron - With Rotation and Point Coordinates\V5 - Aron - With Rotation and Point Coordinates\Density_Detection\obj\Debug\Density_Detection.csprojAssemblyReference.cache
+C:\Users\Aron Mitchell\Documents\V5 - Aron - With Rotation and Point Coordinates\V5 - Aron - With Rotation and Point Coordinates\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+C:\Users\Aron Mitchell\Documents\V5 - Aron - With Rotation and Point Coordinates\V5 - Aron - With Rotation and Point Coordinates\Density_Detection\obj\Debug\Density_Detection.InstructionForm.resources
+C:\Users\Aron Mitchell\Documents\V5 - Aron - With Rotation and Point Coordinates\V5 - Aron - With Rotation and Point Coordinates\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+C:\Users\Aron Mitchell\Documents\V5 - Aron - With Rotation and Point Coordinates\V5 - Aron - With Rotation and Point Coordinates\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+C:\Users\Aron Mitchell\Documents\V5 - Aron - With Rotation and Point Coordinates\V5 - Aron - With Rotation and Point Coordinates\Density_Detection\obj\Debug\Density_Detection.csproj.CoreCompileInputs.cache
+C:\Users\Aron Mitchell\Documents\V5 - Aron - With Rotation and Point Coordinates\V5 - Aron - With Rotation and Point Coordinates\Density_Detection\obj\Debug\Density_Detection.exe.manifest
+C:\Users\Aron Mitchell\Documents\V5 - Aron - With Rotation and Point Coordinates\V5 - Aron - With Rotation and Point Coordinates\Density_Detection\obj\Debug\Density_Detection.application
+C:\Users\Aron Mitchell\Documents\V5 - Aron - With Rotation and Point Coordinates\V5 - Aron - With Rotation and Point Coordinates\Density_Detection\obj\Debug\Density_Detection.csproj.CopyComplete
+C:\Users\Aron Mitchell\Documents\V5 - Aron - With Rotation and Point Coordinates\V5 - Aron - With Rotation and Point Coordinates\Density_Detection\obj\Debug\Density_Detection.exe
+C:\Users\Aron Mitchell\Documents\V5 - Aron - With Rotation and Point Coordinates\V5 - Aron - With Rotation and Point Coordinates\Density_Detection\obj\Debug\Density_Detection.pdb
+C:\Users\Aron Mitchell\Documents\V6 - Aron - Gif Instructions, Disabled Buttons\V6 - Aron - Gif Instructions, Disabled Buttons\Density_Detection\bin\Debug\Density_Detection.exe.config
+C:\Users\Aron Mitchell\Documents\V6 - Aron - Gif Instructions, Disabled Buttons\V6 - Aron - Gif Instructions, Disabled Buttons\Density_Detection\bin\Debug\Density_Detection.exe.manifest
+C:\Users\Aron Mitchell\Documents\V6 - Aron - Gif Instructions, Disabled Buttons\V6 - Aron - Gif Instructions, Disabled Buttons\Density_Detection\bin\Debug\Density_Detection.application
+C:\Users\Aron Mitchell\Documents\V6 - Aron - Gif Instructions, Disabled Buttons\V6 - Aron - Gif Instructions, Disabled Buttons\Density_Detection\bin\Debug\Density_Detection.exe
+C:\Users\Aron Mitchell\Documents\V6 - Aron - Gif Instructions, Disabled Buttons\V6 - Aron - Gif Instructions, Disabled Buttons\Density_Detection\bin\Debug\Density_Detection.pdb
+C:\Users\Aron Mitchell\Documents\V6 - Aron - Gif Instructions, Disabled Buttons\V6 - Aron - Gif Instructions, Disabled Buttons\Density_Detection\bin\Debug\AForge.Math.dll
+C:\Users\Aron Mitchell\Documents\V6 - Aron - Gif Instructions, Disabled Buttons\V6 - Aron - Gif Instructions, Disabled Buttons\Density_Detection\bin\Debug\AForge.xml
+C:\Users\Aron Mitchell\Documents\V6 - Aron - Gif Instructions, Disabled Buttons\V6 - Aron - Gif Instructions, Disabled Buttons\Density_Detection\bin\Debug\AForge.Imaging.xml
+C:\Users\Aron Mitchell\Documents\V6 - Aron - Gif Instructions, Disabled Buttons\V6 - Aron - Gif Instructions, Disabled Buttons\Density_Detection\bin\Debug\AForge.Math.xml
+C:\Users\Aron Mitchell\Documents\V6 - Aron - Gif Instructions, Disabled Buttons\V6 - Aron - Gif Instructions, Disabled Buttons\Density_Detection\obj\Debug\Density_Detection.csprojAssemblyReference.cache
+C:\Users\Aron Mitchell\Documents\V6 - Aron - Gif Instructions, Disabled Buttons\V6 - Aron - Gif Instructions, Disabled Buttons\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+C:\Users\Aron Mitchell\Documents\V6 - Aron - Gif Instructions, Disabled Buttons\V6 - Aron - Gif Instructions, Disabled Buttons\Density_Detection\obj\Debug\Density_Detection.InstructionForm.resources
+C:\Users\Aron Mitchell\Documents\V6 - Aron - Gif Instructions, Disabled Buttons\V6 - Aron - Gif Instructions, Disabled Buttons\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+C:\Users\Aron Mitchell\Documents\V6 - Aron - Gif Instructions, Disabled Buttons\V6 - Aron - Gif Instructions, Disabled Buttons\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+C:\Users\Aron Mitchell\Documents\V6 - Aron - Gif Instructions, Disabled Buttons\V6 - Aron - Gif Instructions, Disabled Buttons\Density_Detection\obj\Debug\Density_Detection.csproj.CoreCompileInputs.cache
+C:\Users\Aron Mitchell\Documents\V6 - Aron - Gif Instructions, Disabled Buttons\V6 - Aron - Gif Instructions, Disabled Buttons\Density_Detection\obj\Debug\Density_Detection.exe.manifest
+C:\Users\Aron Mitchell\Documents\V6 - Aron - Gif Instructions, Disabled Buttons\V6 - Aron - Gif Instructions, Disabled Buttons\Density_Detection\obj\Debug\Density_Detection.application
+C:\Users\Aron Mitchell\Documents\V6 - Aron - Gif Instructions, Disabled Buttons\V6 - Aron - Gif Instructions, Disabled Buttons\Density_Detection\obj\Debug\Density_Detection.csproj.CopyComplete
+C:\Users\Aron Mitchell\Documents\V6 - Aron - Gif Instructions, Disabled Buttons\V6 - Aron - Gif Instructions, Disabled Buttons\Density_Detection\obj\Debug\Density_Detection.exe
+C:\Users\Aron Mitchell\Documents\V6 - Aron - Gif Instructions, Disabled Buttons\V6 - Aron - Gif Instructions, Disabled Buttons\Density_Detection\obj\Debug\Density_Detection.pdb
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V6 - Sharon - Noise area percentage debug\Density_Detection\bin\Debug\Density_Detection.exe.config
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V6 - Sharon - Noise area percentage debug\Density_Detection\bin\Debug\Density_Detection.exe.manifest
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V6 - Sharon - Noise area percentage debug\Density_Detection\bin\Debug\Density_Detection.application
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V6 - Sharon - Noise area percentage debug\Density_Detection\bin\Debug\Density_Detection.exe
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V6 - Sharon - Noise area percentage debug\Density_Detection\bin\Debug\Density_Detection.pdb
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V6 - Sharon - Noise area percentage debug\Density_Detection\bin\Debug\AForge.Math.dll
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V6 - Sharon - Noise area percentage debug\Density_Detection\bin\Debug\AForge.xml
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V6 - Sharon - Noise area percentage debug\Density_Detection\bin\Debug\AForge.Imaging.xml
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V6 - Sharon - Noise area percentage debug\Density_Detection\bin\Debug\AForge.Math.xml
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V6 - Sharon - Noise area percentage debug\Density_Detection\obj\Debug\Density_Detection.csprojResolveAssemblyReference.cache
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V6 - Sharon - Noise area percentage debug\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V6 - Sharon - Noise area percentage debug\Density_Detection\obj\Debug\Density_Detection.InstructionForm.resources
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V6 - Sharon - Noise area percentage debug\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V6 - Sharon - Noise area percentage debug\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.Cache
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V6 - Sharon - Noise area percentage debug\Density_Detection\obj\Debug\Density_Detection.exe.manifest
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V6 - Sharon - Noise area percentage debug\Density_Detection\obj\Debug\Density_Detection.application
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V6 - Sharon - Noise area percentage debug\Density_Detection\obj\Debug\Density_Detection.exe
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V6 - Sharon - Noise area percentage debug\Density_Detection\obj\Debug\Density_Detection.pdb
+C:\Users\Aron Mitchell\Documents\V6 - Sharon - Noise area percentage debug\Density_Detection\bin\Debug\Density_Detection.exe.config
+C:\Users\Aron Mitchell\Documents\V6 - Sharon - Noise area percentage debug\Density_Detection\bin\Debug\Density_Detection.exe.manifest
+C:\Users\Aron Mitchell\Documents\V6 - Sharon - Noise area percentage debug\Density_Detection\bin\Debug\Density_Detection.application
+C:\Users\Aron Mitchell\Documents\V6 - Sharon - Noise area percentage debug\Density_Detection\bin\Debug\Density_Detection.exe
+C:\Users\Aron Mitchell\Documents\V6 - Sharon - Noise area percentage debug\Density_Detection\bin\Debug\Density_Detection.pdb
+C:\Users\Aron Mitchell\Documents\V6 - Sharon - Noise area percentage debug\Density_Detection\bin\Debug\AForge.Math.dll
+C:\Users\Aron Mitchell\Documents\V6 - Sharon - Noise area percentage debug\Density_Detection\bin\Debug\AForge.xml
+C:\Users\Aron Mitchell\Documents\V6 - Sharon - Noise area percentage debug\Density_Detection\bin\Debug\AForge.Imaging.xml
+C:\Users\Aron Mitchell\Documents\V6 - Sharon - Noise area percentage debug\Density_Detection\bin\Debug\AForge.Math.xml
+C:\Users\Aron Mitchell\Documents\V6 - Sharon - Noise area percentage debug\Density_Detection\obj\Debug\Density_Detection.csprojAssemblyReference.cache
+C:\Users\Aron Mitchell\Documents\V6 - Sharon - Noise area percentage debug\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+C:\Users\Aron Mitchell\Documents\V6 - Sharon - Noise area percentage debug\Density_Detection\obj\Debug\Density_Detection.InstructionForm.resources
+C:\Users\Aron Mitchell\Documents\V6 - Sharon - Noise area percentage debug\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+C:\Users\Aron Mitchell\Documents\V6 - Sharon - Noise area percentage debug\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+C:\Users\Aron Mitchell\Documents\V6 - Sharon - Noise area percentage debug\Density_Detection\obj\Debug\Density_Detection.csproj.CoreCompileInputs.cache
+C:\Users\Aron Mitchell\Documents\V6 - Sharon - Noise area percentage debug\Density_Detection\obj\Debug\Density_Detection.exe.manifest
+C:\Users\Aron Mitchell\Documents\V6 - Sharon - Noise area percentage debug\Density_Detection\obj\Debug\Density_Detection.application
+C:\Users\Aron Mitchell\Documents\V6 - Sharon - Noise area percentage debug\Density_Detection\obj\Debug\Density_Detection.csproj.CopyComplete
+C:\Users\Aron Mitchell\Documents\V6 - Sharon - Noise area percentage debug\Density_Detection\obj\Debug\Density_Detection.exe
+C:\Users\Aron Mitchell\Documents\V6 - Sharon - Noise area percentage debug\Density_Detection\obj\Debug\Density_Detection.pdb
+C:\Users\Aron Mitchell\Documents\V7 - Aron - New Gifs, Fixed Picture Sizing\Density_Detection\bin\Debug\Density_Detection.exe.config
+C:\Users\Aron Mitchell\Documents\V7 - Aron - New Gifs, Fixed Picture Sizing\Density_Detection\bin\Debug\Density_Detection.exe.manifest
+C:\Users\Aron Mitchell\Documents\V7 - Aron - New Gifs, Fixed Picture Sizing\Density_Detection\bin\Debug\Density_Detection.application
+C:\Users\Aron Mitchell\Documents\V7 - Aron - New Gifs, Fixed Picture Sizing\Density_Detection\bin\Debug\Density_Detection.exe
+C:\Users\Aron Mitchell\Documents\V7 - Aron - New Gifs, Fixed Picture Sizing\Density_Detection\bin\Debug\Density_Detection.pdb
+C:\Users\Aron Mitchell\Documents\V7 - Aron - New Gifs, Fixed Picture Sizing\Density_Detection\bin\Debug\AForge.Math.dll
+C:\Users\Aron Mitchell\Documents\V7 - Aron - New Gifs, Fixed Picture Sizing\Density_Detection\bin\Debug\AForge.xml
+C:\Users\Aron Mitchell\Documents\V7 - Aron - New Gifs, Fixed Picture Sizing\Density_Detection\bin\Debug\AForge.Imaging.xml
+C:\Users\Aron Mitchell\Documents\V7 - Aron - New Gifs, Fixed Picture Sizing\Density_Detection\bin\Debug\AForge.Math.xml
+C:\Users\Aron Mitchell\Documents\V7 - Aron - New Gifs, Fixed Picture Sizing\Density_Detection\obj\Debug\Density_Detection.csprojAssemblyReference.cache
+C:\Users\Aron Mitchell\Documents\V7 - Aron - New Gifs, Fixed Picture Sizing\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+C:\Users\Aron Mitchell\Documents\V7 - Aron - New Gifs, Fixed Picture Sizing\Density_Detection\obj\Debug\Density_Detection.InstructionForm.resources
+C:\Users\Aron Mitchell\Documents\V7 - Aron - New Gifs, Fixed Picture Sizing\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+C:\Users\Aron Mitchell\Documents\V7 - Aron - New Gifs, Fixed Picture Sizing\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+C:\Users\Aron Mitchell\Documents\V7 - Aron - New Gifs, Fixed Picture Sizing\Density_Detection\obj\Debug\Density_Detection.csproj.CoreCompileInputs.cache
+C:\Users\Aron Mitchell\Documents\V7 - Aron - New Gifs, Fixed Picture Sizing\Density_Detection\obj\Debug\Density_Detection.exe.manifest
+C:\Users\Aron Mitchell\Documents\V7 - Aron - New Gifs, Fixed Picture Sizing\Density_Detection\obj\Debug\Density_Detection.application
+C:\Users\Aron Mitchell\Documents\V7 - Aron - New Gifs, Fixed Picture Sizing\Density_Detection\obj\Debug\Density_Detection.csproj.CopyComplete
+C:\Users\Aron Mitchell\Documents\V7 - Aron - New Gifs, Fixed Picture Sizing\Density_Detection\obj\Debug\Density_Detection.exe
+C:\Users\Aron Mitchell\Documents\V7 - Aron - New Gifs, Fixed Picture Sizing\Density_Detection\obj\Debug\Density_Detection.pdb
+C:\Users\Aron Mitchell\Documents\V8 - Aron - Testing Magnification\Density_Detection\bin\Debug\Density_Detection.exe.config
+C:\Users\Aron Mitchell\Documents\V8 - Aron - Testing Magnification\Density_Detection\bin\Debug\Density_Detection.exe.manifest
+C:\Users\Aron Mitchell\Documents\V8 - Aron - Testing Magnification\Density_Detection\bin\Debug\Density_Detection.application
+C:\Users\Aron Mitchell\Documents\V8 - Aron - Testing Magnification\Density_Detection\bin\Debug\Density_Detection.exe
+C:\Users\Aron Mitchell\Documents\V8 - Aron - Testing Magnification\Density_Detection\bin\Debug\Density_Detection.pdb
+C:\Users\Aron Mitchell\Documents\V8 - Aron - Testing Magnification\Density_Detection\bin\Debug\AForge.Math.dll
+C:\Users\Aron Mitchell\Documents\V8 - Aron - Testing Magnification\Density_Detection\bin\Debug\AForge.xml
+C:\Users\Aron Mitchell\Documents\V8 - Aron - Testing Magnification\Density_Detection\bin\Debug\AForge.Imaging.xml
+C:\Users\Aron Mitchell\Documents\V8 - Aron - Testing Magnification\Density_Detection\bin\Debug\AForge.Math.xml
+C:\Users\Aron Mitchell\Documents\V8 - Aron - Testing Magnification\Density_Detection\obj\Debug\Density_Detection.csprojAssemblyReference.cache
+C:\Users\Aron Mitchell\Documents\V8 - Aron - Testing Magnification\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+C:\Users\Aron Mitchell\Documents\V8 - Aron - Testing Magnification\Density_Detection\obj\Debug\Density_Detection.InstructionForm.resources
+C:\Users\Aron Mitchell\Documents\V8 - Aron - Testing Magnification\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+C:\Users\Aron Mitchell\Documents\V8 - Aron - Testing Magnification\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+C:\Users\Aron Mitchell\Documents\V8 - Aron - Testing Magnification\Density_Detection\obj\Debug\Density_Detection.csproj.CoreCompileInputs.cache
+C:\Users\Aron Mitchell\Documents\V8 - Aron - Testing Magnification\Density_Detection\obj\Debug\Density_Detection.exe.manifest
+C:\Users\Aron Mitchell\Documents\V8 - Aron - Testing Magnification\Density_Detection\obj\Debug\Density_Detection.application
+C:\Users\Aron Mitchell\Documents\V8 - Aron - Testing Magnification\Density_Detection\obj\Debug\Density_Detection.csproj.CopyComplete
+C:\Users\Aron Mitchell\Documents\V8 - Aron - Testing Magnification\Density_Detection\obj\Debug\Density_Detection.exe
+C:\Users\Aron Mitchell\Documents\V8 - Aron - Testing Magnification\Density_Detection\obj\Debug\Density_Detection.pdb
+C:\Users\Sharon 2\Desktop\V8 - Aron - Magnification and Updated Instructions\Density_Detection\bin\Debug\Density_Detection.exe.config
+C:\Users\Sharon 2\Desktop\V8 - Aron - Magnification and Updated Instructions\Density_Detection\bin\Debug\Density_Detection.exe.manifest
+C:\Users\Sharon 2\Desktop\V8 - Aron - Magnification and Updated Instructions\Density_Detection\bin\Debug\Density_Detection.application
+C:\Users\Sharon 2\Desktop\V8 - Aron - Magnification and Updated Instructions\Density_Detection\bin\Debug\Density_Detection.exe
+C:\Users\Sharon 2\Desktop\V8 - Aron - Magnification and Updated Instructions\Density_Detection\bin\Debug\Density_Detection.pdb
+C:\Users\Sharon 2\Desktop\V8 - Aron - Magnification and Updated Instructions\Density_Detection\bin\Debug\AForge.dll
+C:\Users\Sharon 2\Desktop\V8 - Aron - Magnification and Updated Instructions\Density_Detection\bin\Debug\AForge.Imaging.dll
+C:\Users\Sharon 2\Desktop\V8 - Aron - Magnification and Updated Instructions\Density_Detection\bin\Debug\AForge.Math.dll
+C:\Users\Sharon 2\Desktop\V8 - Aron - Magnification and Updated Instructions\Density_Detection\bin\Debug\AForge.xml
+C:\Users\Sharon 2\Desktop\V8 - Aron - Magnification and Updated Instructions\Density_Detection\bin\Debug\AForge.Imaging.xml
+C:\Users\Sharon 2\Desktop\V8 - Aron - Magnification and Updated Instructions\Density_Detection\bin\Debug\AForge.Math.xml
+C:\Users\Sharon 2\Desktop\V8 - Aron - Magnification and Updated Instructions\Density_Detection\obj\Debug\Density_Detection.csprojAssemblyReference.cache
+C:\Users\Sharon 2\Desktop\V8 - Aron - Magnification and Updated Instructions\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+C:\Users\Sharon 2\Desktop\V8 - Aron - Magnification and Updated Instructions\Density_Detection\obj\Debug\Density_Detection.InstructionForm.resources
+C:\Users\Sharon 2\Desktop\V8 - Aron - Magnification and Updated Instructions\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+C:\Users\Sharon 2\Desktop\V8 - Aron - Magnification and Updated Instructions\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+C:\Users\Sharon 2\Desktop\V8 - Aron - Magnification and Updated Instructions\Density_Detection\obj\Debug\Density_Detection.csproj.CoreCompileInputs.cache
+C:\Users\Sharon 2\Desktop\V8 - Aron - Magnification and Updated Instructions\Density_Detection\obj\Debug\Density_Detection.exe.manifest
+C:\Users\Sharon 2\Desktop\V8 - Aron - Magnification and Updated Instructions\Density_Detection\obj\Debug\Density_Detection.application
+C:\Users\Sharon 2\Desktop\V8 - Aron - Magnification and Updated Instructions\Density_Detection\obj\Debug\Density_Detection.csproj.CopyComplete
+C:\Users\Sharon 2\Desktop\V8 - Aron - Magnification and Updated Instructions\Density_Detection\obj\Debug\Density_Detection.exe
+C:\Users\Sharon 2\Desktop\V8 - Aron - Magnification and Updated Instructions\Density_Detection\obj\Debug\Density_Detection.pdb
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\bin\Debug\Density_Detection.exe.config
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\bin\Debug\Density_Detection.exe.manifest
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\bin\Debug\Density_Detection.application
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\bin\Debug\Density_Detection.exe
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\bin\Debug\Density_Detection.pdb
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\bin\Debug\AForge.Math.dll
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\bin\Debug\AForge.xml
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\bin\Debug\AForge.Imaging.xml
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\bin\Debug\AForge.Math.xml
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\obj\Debug\Density_Detection.csprojAssemblyReference.cache
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\obj\Debug\Density_Detection.InstructionForm.resources
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\obj\Debug\Density_Detection.csproj.CoreCompileInputs.cache
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\obj\Debug\Density_Detection.exe.manifest
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\obj\Debug\Density_Detection.application
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\obj\Debug\Density_Detection.csproj.CopyComplete
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\obj\Debug\Density_Detection.exe
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\obj\Debug\Density_Detection.pdb
+C:\Users\Aron Mitchell\Documents\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\bin\Debug\Density_Detection.exe.config
+C:\Users\Aron Mitchell\Documents\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\bin\Debug\Density_Detection.exe.manifest
+C:\Users\Aron Mitchell\Documents\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\bin\Debug\Density_Detection.application
+C:\Users\Aron Mitchell\Documents\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\bin\Debug\Density_Detection.exe
+C:\Users\Aron Mitchell\Documents\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\bin\Debug\Density_Detection.pdb
+C:\Users\Aron Mitchell\Documents\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\bin\Debug\AForge.Math.dll
+C:\Users\Aron Mitchell\Documents\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\bin\Debug\AForge.xml
+C:\Users\Aron Mitchell\Documents\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\bin\Debug\AForge.Imaging.xml
+C:\Users\Aron Mitchell\Documents\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\bin\Debug\AForge.Math.xml
+C:\Users\Aron Mitchell\Documents\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\obj\Debug\Density_Detection.csprojAssemblyReference.cache
+C:\Users\Aron Mitchell\Documents\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+C:\Users\Aron Mitchell\Documents\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\obj\Debug\Density_Detection.InstructionForm.resources
+C:\Users\Aron Mitchell\Documents\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+C:\Users\Aron Mitchell\Documents\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+C:\Users\Aron Mitchell\Documents\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\obj\Debug\Density_Detection.csproj.CoreCompileInputs.cache
+C:\Users\Aron Mitchell\Documents\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\obj\Debug\Density_Detection.exe.manifest
+C:\Users\Aron Mitchell\Documents\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\obj\Debug\Density_Detection.application
+C:\Users\Aron Mitchell\Documents\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\obj\Debug\Density_Detection.csproj.CopyComplete
+C:\Users\Aron Mitchell\Documents\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\obj\Debug\Density_Detection.exe
+C:\Users\Aron Mitchell\Documents\V9 - Sharon_Fixed_Calc_At_Angle_0\Density_Detection\obj\Debug\Density_Detection.pdb
+C:\Users\Aron Mitchell\Documents\V10 - Aron - Data Table, Magnification Slider\Density_Detection\bin\Debug\Density_Detection.exe.config
+C:\Users\Aron Mitchell\Documents\V10 - Aron - Data Table, Magnification Slider\Density_Detection\bin\Debug\Density_Detection.exe.manifest
+C:\Users\Aron Mitchell\Documents\V10 - Aron - Data Table, Magnification Slider\Density_Detection\bin\Debug\Density_Detection.application
+C:\Users\Aron Mitchell\Documents\V10 - Aron - Data Table, Magnification Slider\Density_Detection\bin\Debug\Density_Detection.exe
+C:\Users\Aron Mitchell\Documents\V10 - Aron - Data Table, Magnification Slider\Density_Detection\bin\Debug\Density_Detection.pdb
+C:\Users\Aron Mitchell\Documents\V10 - Aron - Data Table, Magnification Slider\Density_Detection\bin\Debug\AForge.Math.dll
+C:\Users\Aron Mitchell\Documents\V10 - Aron - Data Table, Magnification Slider\Density_Detection\bin\Debug\AForge.xml
+C:\Users\Aron Mitchell\Documents\V10 - Aron - Data Table, Magnification Slider\Density_Detection\bin\Debug\AForge.Imaging.xml
+C:\Users\Aron Mitchell\Documents\V10 - Aron - Data Table, Magnification Slider\Density_Detection\bin\Debug\AForge.Math.xml
+C:\Users\Aron Mitchell\Documents\V10 - Aron - Data Table, Magnification Slider\Density_Detection\obj\Debug\Density_Detection.csprojAssemblyReference.cache
+C:\Users\Aron Mitchell\Documents\V10 - Aron - Data Table, Magnification Slider\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+C:\Users\Aron Mitchell\Documents\V10 - Aron - Data Table, Magnification Slider\Density_Detection\obj\Debug\Density_Detection.InstructionForm.resources
+C:\Users\Aron Mitchell\Documents\V10 - Aron - Data Table, Magnification Slider\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+C:\Users\Aron Mitchell\Documents\V10 - Aron - Data Table, Magnification Slider\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+C:\Users\Aron Mitchell\Documents\V10 - Aron - Data Table, Magnification Slider\Density_Detection\obj\Debug\Density_Detection.csproj.CoreCompileInputs.cache
+C:\Users\Aron Mitchell\Documents\V10 - Aron - Data Table, Magnification Slider\Density_Detection\obj\Debug\Density_Detection.exe.manifest
+C:\Users\Aron Mitchell\Documents\V10 - Aron - Data Table, Magnification Slider\Density_Detection\obj\Debug\Density_Detection.application
+C:\Users\Aron Mitchell\Documents\V10 - Aron - Data Table, Magnification Slider\Density_Detection\obj\Debug\Density_Detection.csproj.CopyComplete
+C:\Users\Aron Mitchell\Documents\V10 - Aron - Data Table, Magnification Slider\Density_Detection\obj\Debug\Density_Detection.exe
+C:\Users\Aron Mitchell\Documents\V10 - Aron - Data Table, Magnification Slider\Density_Detection\obj\Debug\Density_Detection.pdb
+C:\Users\Aron Mitchell\Documents\V10 - Aron - Data Table, Magnification Slider\Density_Detection\obj\Debug\Density_Detection.csproj.ResolveComReference.cache
+C:\Users\Aron Mitchell\Documents\V11 - Aron - Export to Excel\Density_Detection\bin\Debug\Density_Detection.exe.config
+C:\Users\Aron Mitchell\Documents\V11 - Aron - Export to Excel\Density_Detection\bin\Debug\Density_Detection.exe.manifest
+C:\Users\Aron Mitchell\Documents\V11 - Aron - Export to Excel\Density_Detection\bin\Debug\Density_Detection.application
+C:\Users\Aron Mitchell\Documents\V11 - Aron - Export to Excel\Density_Detection\bin\Debug\Density_Detection.exe
+C:\Users\Aron Mitchell\Documents\V11 - Aron - Export to Excel\Density_Detection\bin\Debug\Density_Detection.pdb
+C:\Users\Aron Mitchell\Documents\V11 - Aron - Export to Excel\Density_Detection\bin\Debug\AForge.Math.dll
+C:\Users\Aron Mitchell\Documents\V11 - Aron - Export to Excel\Density_Detection\bin\Debug\AForge.xml
+C:\Users\Aron Mitchell\Documents\V11 - Aron - Export to Excel\Density_Detection\bin\Debug\AForge.Imaging.xml
+C:\Users\Aron Mitchell\Documents\V11 - Aron - Export to Excel\Density_Detection\bin\Debug\AForge.Math.xml
+C:\Users\Aron Mitchell\Documents\V11 - Aron - Export to Excel\Density_Detection\obj\Debug\Density_Detection.csprojAssemblyReference.cache
+C:\Users\Aron Mitchell\Documents\V11 - Aron - Export to Excel\Density_Detection\obj\Debug\Density_Detection.csproj.ResolveComReference.cache
+C:\Users\Aron Mitchell\Documents\V11 - Aron - Export to Excel\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+C:\Users\Aron Mitchell\Documents\V11 - Aron - Export to Excel\Density_Detection\obj\Debug\Density_Detection.InstructionForm.resources
+C:\Users\Aron Mitchell\Documents\V11 - Aron - Export to Excel\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+C:\Users\Aron Mitchell\Documents\V11 - Aron - Export to Excel\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+C:\Users\Aron Mitchell\Documents\V11 - Aron - Export to Excel\Density_Detection\obj\Debug\Density_Detection.csproj.CoreCompileInputs.cache
+C:\Users\Aron Mitchell\Documents\V11 - Aron - Export to Excel\Density_Detection\obj\Debug\Density_Detection.exe.manifest
+C:\Users\Aron Mitchell\Documents\V11 - Aron - Export to Excel\Density_Detection\obj\Debug\Density_Detection.application
+C:\Users\Aron Mitchell\Documents\V11 - Aron - Export to Excel\Density_Detection\obj\Debug\Density_Detection.csproj.CopyComplete
+C:\Users\Aron Mitchell\Documents\V11 - Aron - Export to Excel\Density_Detection\obj\Debug\Density_Detection.exe
+C:\Users\Aron Mitchell\Documents\V11 - Aron - Export to Excel\Density_Detection\obj\Debug\Density_Detection.pdb
+C:\Users\Aron Mitchell\Documents\V12 - Aron - 05-03-21\Density_Detection\bin\Debug\Density_Detection.exe.config
+C:\Users\Aron Mitchell\Documents\V12 - Aron - 05-03-21\Density_Detection\bin\Debug\Density_Detection.exe.manifest
+C:\Users\Aron Mitchell\Documents\V12 - Aron - 05-03-21\Density_Detection\bin\Debug\Density_Detection.application
+C:\Users\Aron Mitchell\Documents\V12 - Aron - 05-03-21\Density_Detection\bin\Debug\Density_Detection.exe
+C:\Users\Aron Mitchell\Documents\V12 - Aron - 05-03-21\Density_Detection\bin\Debug\Density_Detection.pdb
+C:\Users\Aron Mitchell\Documents\V12 - Aron - 05-03-21\Density_Detection\bin\Debug\AForge.Math.dll
+C:\Users\Aron Mitchell\Documents\V12 - Aron - 05-03-21\Density_Detection\bin\Debug\AForge.xml
+C:\Users\Aron Mitchell\Documents\V12 - Aron - 05-03-21\Density_Detection\bin\Debug\AForge.Imaging.xml
+C:\Users\Aron Mitchell\Documents\V12 - Aron - 05-03-21\Density_Detection\bin\Debug\AForge.Math.xml
+C:\Users\Aron Mitchell\Documents\V12 - Aron - 05-03-21\Density_Detection\obj\Debug\Density_Detection.csprojAssemblyReference.cache
+C:\Users\Aron Mitchell\Documents\V12 - Aron - 05-03-21\Density_Detection\obj\Debug\Density_Detection.csproj.ResolveComReference.cache
+C:\Users\Aron Mitchell\Documents\V12 - Aron - 05-03-21\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+C:\Users\Aron Mitchell\Documents\V12 - Aron - 05-03-21\Density_Detection\obj\Debug\Density_Detection.InstructionForm.resources
+C:\Users\Aron Mitchell\Documents\V12 - Aron - 05-03-21\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+C:\Users\Aron Mitchell\Documents\V12 - Aron - 05-03-21\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+C:\Users\Aron Mitchell\Documents\V12 - Aron - 05-03-21\Density_Detection\obj\Debug\Density_Detection.csproj.CoreCompileInputs.cache
+C:\Users\Aron Mitchell\Documents\V12 - Aron - 05-03-21\Density_Detection\obj\Debug\Density_Detection.exe.manifest
+C:\Users\Aron Mitchell\Documents\V12 - Aron - 05-03-21\Density_Detection\obj\Debug\Density_Detection.application
+C:\Users\Aron Mitchell\Documents\V12 - Aron - 05-03-21\Density_Detection\obj\Debug\Density_Detection.csproj.CopyComplete
+C:\Users\Aron Mitchell\Documents\V12 - Aron - 05-03-21\Density_Detection\obj\Debug\Density_Detection.exe
+C:\Users\Aron Mitchell\Documents\V12 - Aron - 05-03-21\Density_Detection\obj\Debug\Density_Detection.pdb
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V12 - Aron - 05-03-21\Density_Detection\bin\Debug\Density_Detection.exe.config
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V12 - Aron - 05-03-21\Density_Detection\bin\Debug\Density_Detection.exe.manifest
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V12 - Aron - 05-03-21\Density_Detection\bin\Debug\Density_Detection.application
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V12 - Aron - 05-03-21\Density_Detection\bin\Debug\Density_Detection.exe
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V12 - Aron - 05-03-21\Density_Detection\bin\Debug\Density_Detection.pdb
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V12 - Aron - 05-03-21\Density_Detection\bin\Debug\AForge.Math.dll
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V12 - Aron - 05-03-21\Density_Detection\bin\Debug\AForge.xml
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V12 - Aron - 05-03-21\Density_Detection\bin\Debug\AForge.Imaging.xml
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V12 - Aron - 05-03-21\Density_Detection\bin\Debug\AForge.Math.xml
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V12 - Aron - 05-03-21\Density_Detection\obj\Debug\Density_Detection.csprojAssemblyReference.cache
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V12 - Aron - 05-03-21\Density_Detection\obj\Debug\Density_Detection.csproj.ResolveComReference.cache
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V12 - Aron - 05-03-21\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V12 - Aron - 05-03-21\Density_Detection\obj\Debug\Density_Detection.InstructionForm.resources
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V12 - Aron - 05-03-21\Density_Detection\obj\Debug\Density_Detection.Properties.Resources.resources
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V12 - Aron - 05-03-21\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.cache
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V12 - Aron - 05-03-21\Density_Detection\obj\Debug\Density_Detection.csproj.CoreCompileInputs.cache
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V12 - Aron - 05-03-21\Density_Detection\obj\Debug\Density_Detection.exe.manifest
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V12 - Aron - 05-03-21\Density_Detection\obj\Debug\Density_Detection.application
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V12 - Aron - 05-03-21\Density_Detection\obj\Debug\Density_Detection.csproj.CopyComplete
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V12 - Aron - 05-03-21\Density_Detection\obj\Debug\Density_Detection.exe
+C:\Users\slau.IASTATE.001\Box\Sharon Stuff\URA\Noise Area Percentage Tool\V12 - Aron - 05-03-21\Density_Detection\obj\Debug\Density_Detection.pdb
